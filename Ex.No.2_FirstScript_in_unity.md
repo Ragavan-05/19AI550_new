@@ -1,3 +1,4 @@
+Ex.No.2 FIRST SCRIPT IN UNITY
 ### DATE: 23/10/26                                                                           
 ### REGISTER NUMBER : 212225230220
 ### AIM: 
