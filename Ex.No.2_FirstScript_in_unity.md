@@ -1,4 +1,3 @@
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/6d38c21d-bf8c-4fff-bb2c-7f4b6945cee3" /># Ex.No: 2  Welcome Script in Unity
 ### DATE: 23/10/26                                                                           
 ### REGISTER NUMBER : 212225230220
 ### AIM: 
